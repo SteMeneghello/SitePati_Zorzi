@@ -2,8 +2,6 @@
 
 Este foi meu primeiro projeto no universo do desenvolvimento web, com minhas parceiras Fernanda e Lauren, durante o primeiro semestre da faculdade. 
 
----
-
 ## 🌸 Sobre o Projeto
 O objetivo era criar uma *landing page* funcional para a loja **Pati Zorzi**. O foco principal foi a construção de uma interface que transmitisse a identidade da marca: sofisticação e inclusividade, "agradando mulheres de todos os estilos".
 
