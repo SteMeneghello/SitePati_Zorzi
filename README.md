@@ -14,7 +14,6 @@ O objetivo era criar uma *landing page* funcional para a loja **Pati Zorzi**. O 
 ## Tecnologias Utilizadas
 * **HTML5:** Estruturação de menus e seções de destaque.
 * **CSS3:** Definição da identidade visual e layout.
-* **JavaScript**: Responsável pela interatividade da página.
 * **Neocities:** Hospedagem da página.
 
 ---
